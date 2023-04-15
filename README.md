@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @guksudaykiran
+- 👋 Hi, I’m GEDDAM UDAY KIRAN
 - 👀 I’m interested in Compititive coding
 - 🌱 I’m currently learning DSA and Cpp
 - 💞️ I’m looking to collaborate on you
